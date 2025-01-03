@@ -7,7 +7,7 @@ category: conferences
 date: 2021-05-12
 venue: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: '**Lin, Yuxiao**, Yuxian Meng, Xiaofei Sun, Qinghong Han, Kun Kuang, Jiwei Li, and Fei Wu. "BertGCN: Transductive Text Classification by Combining GNN and BERT." In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, pp. 1456-1462. 2021.
+citation: 'Lin, Yuxiao, Yuxian Meng, Xiaofei Sun, Qinghong Han, Kun Kuang, Jiwei Li, and Fei Wu. "BertGCN: Transductive Text Classification by Combining GNN and BERT." In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, pp. 1456-1462. 2021.
 '
 ---
  
