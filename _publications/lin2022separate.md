@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 # permalink: /publication/2024-02-17-paper-title-number-4
 # excerpt: 'This paper is about fixing template issue #693.'
-date: 2022
+date: 2022-12-11
 venue: '2022 13th International Symposium on Chinese Spoken Language Processing (ISCSLP)'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: '@inproceedings{lin2022separate,
