@@ -6,7 +6,7 @@ category: conferences
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-03-31
 venue: 'INTERSPEECH. 2022'
-# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10317185'
 citation: 'Fan Yu, Zhihao Du, Shiliang Zhang, Yuxiao Lin, and Lei Xie, “A comparative study on speaker-attributed automatic speech recognition in multi-party meetings,” in Proc. INTERSPEECH. 2022, pp. 560–564, ISCA.
 '
 ---
